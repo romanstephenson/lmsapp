@@ -250,3 +250,4 @@ D:\steph\Documents\Dev\lmsapp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft
 D:\steph\Documents\Dev\lmsapp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\steph\Documents\Dev\lmsapp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\steph\Documents\Dev\lmsapp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\steph\Documents\Dev\lmsapp\obj\Debug\net8.0\lmsapp.sourcelink.json

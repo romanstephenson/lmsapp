@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qfSK4XIx/NsDBoNE62H5/5pIEnYjr+wxxWJ6dISxzTQ=",
+  "Hash": "b7fWzgDm83idS8h3vXhu5dCUg4ua7aMLjGxZkPD+Psw=",
   "Source": "lmsapp",
   "BasePath": "_content/lmsapp",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\lmsapp.styles.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\lmsapp.styles.css",
       "SourceId": "lmsapp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "d:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/lmsapp",
       "RelativePath": "lmsapp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\lmsapp.styles.css"
+      "OriginalItemSpec": "d:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\lmsapp.styles.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\lmsapp.bundle.scp.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\lmsapp.bundle.scp.css",
       "SourceId": "lmsapp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "d:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/lmsapp",
       "RelativePath": "lmsapp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,10 +52,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\lmsapp.bundle.scp.css"
+      "OriginalItemSpec": "d:\\steph\\Documents\\Dev\\lmsapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\lmsapp.bundle.scp.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\css\\site.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\css\\site.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -74,7 +74,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\favicon.ico",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\favicon.ico",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -93,7 +93,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\js\\site.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\js\\site.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -112,7 +112,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -131,7 +131,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -150,7 +150,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -169,7 +169,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -188,7 +188,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -207,7 +207,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -226,7 +226,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -245,7 +245,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -264,7 +264,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -283,7 +283,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -302,7 +302,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -321,7 +321,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -340,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -359,7 +359,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -378,7 +378,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -397,7 +397,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -416,7 +416,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -435,7 +435,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -454,7 +454,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -473,7 +473,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -492,7 +492,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -511,7 +511,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -530,7 +530,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -549,7 +549,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -568,7 +568,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -587,7 +587,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -606,7 +606,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -625,7 +625,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -644,7 +644,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -663,7 +663,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -682,7 +682,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -701,7 +701,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -720,7 +720,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -739,7 +739,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -758,7 +758,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -777,7 +777,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -796,7 +796,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -815,7 +815,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -834,7 +834,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -853,7 +853,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -872,7 +872,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -891,7 +891,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -910,7 +910,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -929,7 +929,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -948,7 +948,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -967,7 +967,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -986,7 +986,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -1005,7 +1005,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -1024,7 +1024,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -1043,7 +1043,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -1062,7 +1062,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -1081,7 +1081,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -1100,7 +1100,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -1119,7 +1119,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -1138,7 +1138,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -1157,7 +1157,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
@@ -1176,7 +1176,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "d:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "lmsapp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\steph\\Documents\\Dev\\lmsapp\\wwwroot\\",
